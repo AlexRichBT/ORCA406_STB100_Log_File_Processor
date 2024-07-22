@@ -1,5 +1,6 @@
 old/
 config.ini
+*.bat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
