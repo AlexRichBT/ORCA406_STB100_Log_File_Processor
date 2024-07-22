@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=favicon.ico  Process_STB100_Log_File_v2.py
